@@ -11,7 +11,7 @@ The Iterator design pattern is a behavioral pattern that provides a way to acces
 
 ## Example:
 
-In Java, the Iterator design pattern is implemented through the java.util.Iterator interface and the java.util.Collection interface. The Iterator interface provides methods for iterating over a collection, including hasNext(), which returns true if there are more elements to iterate over, and next(), which returns the next element in the collection. The Collection interface provides a method called iterator(), which returns an Iterator object that can be used to iterate over the elements in the collection.
+> In Java, the Iterator design pattern is implemented through the java.util.Iterator interface and the java.util.Collection interface. The Iterator interface provides methods for iterating over a collection, including hasNext(), which returns true if there are more elements to iterate over, and next(), which returns the next element in the collection. The Collection interface provides a method called iterator(), which returns an Iterator object that can be used to iterate over the elements in the collection.
 ---
 ### Library example:
 
